@@ -1,0 +1,4 @@
+This document describes an AI chatbot that can answer user queries based on a FAQ dataset and a document knowledge base.
+It uses OpenAI API or Ollama for generating intelligent responses.
+Short-term memory is implemented to remember conversation history.
+The chatbot provides answers by searching predefined FAQs first, then retrieving relevant information from documents.
